@@ -4,7 +4,7 @@ import java.util.Scanner;
         public class Main {
             public static void main(String[] args) {
                 Scanner scanner = new Scanner(System.in);
-                System.out.print("Введите первое число:");
+                System.out.print("Введwefrghyjukiите первое число:");
                 int num1 = scanner.nextInt();
                 if (num1 == 0) {
                     System.out.println("Калькулятор выключен");
